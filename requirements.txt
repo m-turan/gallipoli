@@ -1,0 +1,1 @@
+# Standart kütüphane yeterli; ek paket gerekmez.
